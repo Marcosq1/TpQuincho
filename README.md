@@ -6,9 +6,11 @@ La tabla "clientes" cuenta con una clave primaria llamada "id_cliente" (auto inc
 Integrantes:
 
  Jose Agostini
+ 
  Mail:
   • joseagostini2012@gmail.com
   
  Marcos Quiñones 
+ 
  Mail:
   • marcosnicolasquiniones@gmail.com

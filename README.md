@@ -1,5 +1,6 @@
 # TpQuincho
-![image](https://github.com/user-attachments/assets/312e5e34-e294-4819-a6a0-e0e5e10529e4)
+![quinchobbdd-2024-10-18_18-38](https://github.com/user-attachments/assets/90ff8077-199f-44e3-81f4-d80da0654f3e)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 • Nuestro trabajo se basa en una pagina para el alquiler de un Quincho. Donde creamos 2 tablas con relacion 1 a n, una para los clientes y otra para las reservas, donde un cliente puede tener varias reservas.

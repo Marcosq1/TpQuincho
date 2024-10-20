@@ -12,8 +12,3 @@ La tabla **"clientes"** cuenta con una clave primaria llamada **"id_cliente"** (
  
  Mail:
   • joseagostini2012@gmail.com
-  
- **Marcos Quiñones**
- 
- Mail:
-  • marcosnicolasquiniones@gmail.com
